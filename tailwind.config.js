@@ -84,6 +84,7 @@ export default {
   			'128': '32rem'
   		},
   		borderRadius: {
+        '2xl': '1.5rem',
   			'4xl': '2rem',
   			'5xl': '2.5rem',
   			lg: 'var(--radius)',
@@ -91,6 +92,10 @@ export default {
   			sm: 'calc(var(--radius) - 4px)'
   		},
   		colors: {
+        'joy-blue': '#3B82F6',
+        'joy-yellow': '#FBBF24',
+        'joy-pink': '#EC4899',
+        'joy-bg': 'hsl(210 40% 98%)',
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
   			muted: {
