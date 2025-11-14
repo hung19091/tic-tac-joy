@@ -2,7 +2,7 @@
 
 A beautifully designed, playful Tic-Tac-Toe game with a cheerful, kid-friendly interface and delightful animations.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/hung19091/tic-tac-joy)
 
 ## ✨ Key Features
 
@@ -69,7 +69,7 @@ This project is optimized for deployment on the Cloudflare global network.
 
 You can deploy this application to your own Cloudflare account with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/hung19091/tic-tac-joy)
 
 ### Manual Deployment
 
